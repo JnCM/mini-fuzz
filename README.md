@@ -137,5 +137,7 @@ This tool currently detects the following vulnerabilities:
 
 ## Next steps
 
-- Adding more detectors based on instruction-level approaches;
+- Add more detectors based on instruction-level approaches;
 - Improve Fuzzing execution;
+- Show the vulnerable code line in the terminal;
+ 
